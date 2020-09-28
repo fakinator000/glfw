@@ -1,0 +1,4 @@
+
+option('glfw_linux_wayland', type: 'boolean', value: false, description: 'Use the Wayland API instead of X11 on Linux')
+option('glfw_linux_osmesa', type: 'boolean', value: false, description: 'Use the OSMesa Headless API instead of X11 on Linux')
+
